@@ -1,3 +1,4 @@
 My new file
 Add second line
 Add third line
+Add fourth line
