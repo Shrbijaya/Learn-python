@@ -4,3 +4,4 @@ second commit in branch 1
 Add second line
 Add third line
 Add fourth line
+Add sixth line
