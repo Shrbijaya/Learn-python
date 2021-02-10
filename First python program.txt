@@ -1,5 +1,6 @@
 My new file
 This is on branch 1
+second commit in branch 1
 Add second line
 Add third line
 Add fourth line
