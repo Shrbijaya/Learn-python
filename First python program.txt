@@ -6,4 +6,3 @@ Add third line
 Add fourth line
 A fifth line
 Add sixth line
-main
